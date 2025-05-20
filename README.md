@@ -2,6 +2,9 @@
    
  ## Aim  
  To perform Delta Modulation (DM) on a continuous signal and analyze its reconstruction.  
+ ## 29/03/25
+ ## Santhosh J
+ ## 212223060248
  
  ## Tools Required  
  - Python (colab)
